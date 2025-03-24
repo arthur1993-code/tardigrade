@@ -1,0 +1,12 @@
+playwright~=1.50.0
+pytest
+pytest-playwright
+requests~=2.32.3
+httpx
+python-dotenv
+pytest-xdist
+faker
+allure-pytest
+pytest-json-report
+jsonschema
+pydantic
