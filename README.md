@@ -1,2 +1,2 @@
-# tardigrade
+# Tardigrade
 Welcome to Tardigrade
